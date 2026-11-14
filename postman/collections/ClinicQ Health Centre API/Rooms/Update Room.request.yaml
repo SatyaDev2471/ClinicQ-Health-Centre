@@ -1,0 +1,13 @@
+$kind: http-request
+url: "{{baseUrl}}/api/rooms/{{roomId}}"
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \    \"name\": \"{{roomName}}\",\r
+
+    \    \"floor\": {{roomFloor}}\r
+
+    }"
+order: 5000

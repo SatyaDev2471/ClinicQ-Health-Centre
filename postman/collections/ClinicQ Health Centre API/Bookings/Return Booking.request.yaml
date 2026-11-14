@@ -1,0 +1,4 @@
+$kind: http-request
+url: "{{baseUrl}}/api/bookings/{{bookingId}}/return"
+method: PATCH
+order: 4000

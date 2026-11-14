@@ -1,0 +1,69 @@
+{
+	"id": "6af86e731999f973414a8bdd",
+	"name": "ClinicQ Health Centre API",
+	"timestamp": "2026-11-14T14:21:41.899Z",
+	"collection_id": "aa640ddC6F413e5Ab3DC9BfA",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2026-11-14T14:21:39.343Z",
+	"totalFail": 0,
+	"results": [],
+	"count": 1,
+	"totalTime": 0,
+	"collection": {
+		"requests": [
+			{
+				"id": "20FcFF7Fe9F9d925eb4C5d8e"
+			},
+			{
+				"id": "1FaFecAfba8dC7dAA2F0653B"
+			},
+			{
+				"id": "63C6D97A2cF80c645C509EDf"
+			},
+			{
+				"id": "F52b89553bBBcD44DdD9172D"
+			},
+			{
+				"id": "C956bB3c9DAB60Acd7DC3CA1"
+			},
+			{
+				"id": "1a217169a85Fd97C6dD3DbFA"
+			},
+			{
+				"id": "aBaca377840EEC6eeF7ca0dC"
+			},
+			{
+				"id": "ccaed6FDF3bC2bAf5ceFbCcA"
+			},
+			{
+				"id": "be5CbBfd09c7BEc34CC4AD29"
+			},
+			{
+				"id": "A8eDDE80fFF7B6EaAC4e348B"
+			},
+			{
+				"id": "C0bB56B7EA11A53A7108fA83"
+			},
+			{
+				"id": "9e6ef6CC26491BF594b73bf5"
+			},
+			{
+				"id": "20cEAaEEFC460E0c65D6988B"
+			},
+			{
+				"id": "DfFce70FEcc87c617c9bec41"
+			},
+			{
+				"id": "6eA07D6f8cAA8ba471e12Ebe"
+			},
+			{
+				"id": "6be3d27A5D81e7Dd7F3Db6F0"
+			}
+		]
+	}
+}

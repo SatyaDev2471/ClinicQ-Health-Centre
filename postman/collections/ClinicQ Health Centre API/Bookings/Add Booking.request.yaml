@@ -1,0 +1,13 @@
+$kind: http-request
+url: "{{baseUrl}}/api/bookings"
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"doctor_id\": {{doctorId}},\r
+
+    \    \"room_id\": {{roomId}}\r
+
+    }"
+order: 3000

@@ -1,0 +1,13 @@
+$kind: http-request
+url: "{{baseUrl}}/api/doctors/{{doctorId}}"
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \    \"name\": \"{{doctorName}}\",\r
+
+    \    \"specialization\": \"{{specialization}}\"\r
+
+    }"
+order: 4000

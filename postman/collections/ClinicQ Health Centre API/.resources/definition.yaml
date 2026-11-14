@@ -1,0 +1,11 @@
+$kind: collection
+variables:
+  baseUrl: ""
+  doctorId: ""
+  roomId: ""
+  bookingId: ""
+  floor: ""
+  doctorName: ""
+  specialization: ""
+  roomName: ""
+  roomFloor: ""
